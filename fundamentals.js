@@ -1,4 +1,8 @@
 // "CONST" for values that dont change 
+// Node js isnt a language but a engine that runs JS codes
+ 
+
+//module is a way to break codes into reusable chunks(Built-in, User-defined, Third-party)
 const name = "mawulawoe"
 
 console.log(name)// runs an output to the console(whats in the bracket)
